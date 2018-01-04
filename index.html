@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4199048700"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4237624539" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3961469681"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=70641655" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=241627329"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=4170208157"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4196861639" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
@@ -284,7 +284,7 @@ Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1024', '#bp_900', '#bp_768', '#bp_600', '#bp_480', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#accordionu727', ['#bp_600', '#bp_480', '#bp_320'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu727 */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u2583').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#u2583').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

@@ -2,32 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://celina-w.github.io/spiderwheel/index.html</loc>
-    <lastmod>2017-12-29</lastmod>
+    <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/contact.html</loc>
-    <lastmod>2017-12-29</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/product.html</loc>
-    <lastmod>2017-12-29</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear_2x.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear422x292.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg423x539.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg423x539_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk541x360.jpg</image:loc>
@@ -41,59 +35,155 @@
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk540x360_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear371x257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg372x474.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk475x317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk475x317_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk475x317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk475x317_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear317x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg317x405.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk406x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk406x270_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk405x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk405x270_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg599x764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk600x400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk600x400_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk600x366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk600x366_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear480x333.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg480x612.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk480x320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk480x320_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk480x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk480x294_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20gear320x222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg320x408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk320x214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/professional%20desk320x214_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk320x196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/playful%20desk320x196_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/team.html</loc>
-    <lastmod>2017-12-29</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/process.html</loc>
-    <lastmod>2017-12-28</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster286x271.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u18983.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u18983.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u18983_2x.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u18983_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%20440x382.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns363x364.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns363x364_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch_2x.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch372x357.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/screen%20shot%202017-12-27%20at%20103816%20pm.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch372x357_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2363x456.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2363x456_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad365x215.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/legs%20cad.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view365x487.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view_2x.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view365x487_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg365x466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg365x466_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443.jpg</image:loc>
@@ -102,10 +192,28 @@
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u189832.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster271x257.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u18983_2x2.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u189832.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u18983_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u192842.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/legs%20cad-crop-u51356.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u194432.jpg</image:loc>
@@ -114,10 +222,52 @@
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u189833.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster-crop-u18694.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u18983_2x3.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u189833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u18983_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u192382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch327x313.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch327x313_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u192843.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2-crop-u19328.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2-crop-u19328_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad321x189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/legs%20cad-crop-u513562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view321x429.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view321x429_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg321x409.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u194433.jpg</image:loc>
@@ -126,10 +276,52 @@
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u189834.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster203x193.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u18983_2x4.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u189834.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle-crop-u18983_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u192383.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch279x268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch279x268_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u192844.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2273x342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2273x342_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad274x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/legs%20cad-crop-u513563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view274x366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view274x366_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg274x349.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u194434.jpg</image:loc>
@@ -138,16 +330,157 @@
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u189835.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://celina-w.github.io/spiderwheel/images/pasted%20image%201799x1067-crop-u18983_2x5.jpg</image:loc>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle600x356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle600x356_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u192384.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u192845.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u194435.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster396x376.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle480x285.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle480x285_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u192385.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch480x460.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch480x460_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u192846.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2480x603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2480x603_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad479x283.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view480x641.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view480x641_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg480x613.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u194436.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/75-%20poster264x251.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle320x190.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/newton-s%20cradle320x190_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u192386.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/elephant%20horns-crop-u19238_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch320x307.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/combination%20sketch320x307_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u192847.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches1-crop-u19284_2x7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2320x402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/sketches2320x402_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/full%20cad320x189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view320x427.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/yellow%20print%20full%20view320x427_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/zoom%20in%20leg320x409.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u194437.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/img_1039-crop-u19443_2x7.jpg</image:loc>
     </image:image>
   </url>
   <url>
