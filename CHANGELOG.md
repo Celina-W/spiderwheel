@@ -12,6 +12,12 @@
 - Add SEO
 - Add sitemap
 
+## [0.2.1] - 2018-1-31
+
+### Added
+
+- Profile picture "Celina pfp.jpg" added to Team page
+
 ## [0.2.0] - 2018-1-4
 
 ### Added
@@ -23,8 +29,6 @@
 
 - Edited Team page descriptions
 - Reimported 75% poster.png, elephant horns.jpg, sketches1.jpg, sketches2.jpg, legs cad.jpg, and newton's cradle.jpg assets for HiDPI
-
-  ​
 
 ## [0.1.0] - 2017-12-29
 

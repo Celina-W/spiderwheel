@@ -1,23 +1,23 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="celina-w.github.io/spiderwheel" resolutions="1x,2x" timestamp="1515101423524">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="celina-w.github.io/spiderwheel" resolutions="1x,2x" timestamp="1517438202765">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3961469681" ref="contact:team:process:product:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4170208157" ref="contact:team:process:product:index"/>
-    <file name="contact.css" crc="3789228373" ref="contact"/>
-    <file name="nomq_contact.css" crc="3771856166" ref="contact"/>
-    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="team.css" crc="3875647021" ref="team"/>
-    <file name="nomq_team.css" crc="80595554" ref="team"/>
-    <file name="iefonts_team.css" crc="3824530138" ref="team"/>
-    <file name="process.css" crc="424633170" ref="process"/>
-    <file name="nomq_process.css" crc="4129060440" ref="process"/>
+    <file name="master_a-master.css" crc="363202562" ref="process:product:team:index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="4170208157" ref="process:product:team:index:contact"/>
+    <file name="process.css" crc="3962415262" ref="process"/>
+    <file name="nomq_process.css" crc="4288983345" ref="process"/>
     <file name="iefonts_process.css" crc="3824530138" ref="process"/>
-    <file name="product.css" crc="4057718146" ref="product"/>
-    <file name="nomq_product.css" crc="3951408506" ref="product"/>
+    <file name="product.css" crc="4263914625" ref="product"/>
+    <file name="nomq_product.css" crc="4213987820" ref="product"/>
     <file name="iefonts_product.css" crc="3824530138" ref="product"/>
-    <file name="index.css" crc="70641655" ref="index"/>
+    <file name="team.css" crc="283381605" ref="team"/>
+    <file name="nomq_team.css" crc="88041785" ref="team"/>
+    <file name="iefonts_team.css" crc="3824530138" ref="team"/>
+    <file name="index.css" crc="3909211397" ref="index"/>
     <file name="nomq_index.css" crc="4196861639" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="contact.css" crc="485824524" ref="contact"/>
+    <file name="nomq_contact.css" crc="3764516437" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="spiderwheel-moving.mov" crc="4110938965" seo="true" mt="1514433979000"/>
@@ -264,8 +264,64 @@
     <file name="team page banner_2x.jpg" crc="497206129" ref="team">
       <caption webpage="team" alt=""/>
     </file>
+    <file name="aedan pfp.jpg" crc="4289571284" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="aedan pfp_2x.jpg" crc="511614307" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631.jpg" crc="3813202343" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x.jpg" crc="4125438582" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
     <file name="team page banner-u20677-fr.jpg" crc="526364084" ref="team"/>
     <file name="team page banner-u20677-fr_2x.jpg" crc="3776788579" ref="team"/>
+    <file name="celina pfp-crop-u216312.jpg" crc="3813202343" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x2.jpg" crc="4125438582" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="aedan pfp-u21615-fr.jpg" crc="4036042702" ref="team"/>
+    <file name="aedan pfp-u21615-fr_2x.jpg" crc="4293663769" ref="team"/>
+    <file name="celina pfp-crop-u216313.jpg" crc="3850328405" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x3.jpg" crc="4186778203" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="aedan pfp-u21615-fr2.jpg" crc="3811257742" ref="team"/>
+    <file name="aedan pfp-u21615-fr_2x2.jpg" crc="3979874612" ref="team"/>
+    <file name="celina pfp-crop-u216314.jpg" crc="34813302" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x4.jpg" crc="40119163" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="aedan pfp-u21615-fr3.jpg" crc="3995320277" ref="team"/>
+    <file name="aedan pfp-u21615-fr_2x3.jpg" crc="65789401" ref="team"/>
+    <file name="celina pfp-crop-u216315.jpg" crc="4063008331" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x5.jpg" crc="3939526191" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u216316.jpg" crc="497598335" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x6.jpg" crc="4100984701" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="aedan pfp-u21615-fr4.jpg" crc="4132321141" ref="team"/>
+    <file name="aedan pfp-u21615-fr_2x4.jpg" crc="261356137" ref="team"/>
+    <file name="celina pfp-crop-u216317.jpg" crc="138910864" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="celina pfp-crop-u21631_2x7.jpg" crc="4028695074" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
     <file name="yellow print side view.jpg" crc="3943862246" ref="process">
       <caption webpage="process" alt=""/>
     </file>
@@ -367,7 +423,7 @@
     </file>
     <file name="u17176-223.png" crc="92466851" ref="process"/>
     <file name="u17176-22_2x3.png" crc="3939039155" ref="process"/>
-    <file name="75- poster-crop-u18694.jpg" crc="4233284264" seo="true" ref="process">
+    <file name="75- poster-crop-u18694.jpg" crc="190197718" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
     <file name="newton-s cradle-crop-u189833.jpg" crc="277303286" seo="true" ref="process">
@@ -647,9 +703,9 @@
       <caption webpage="process" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="309814342" seo="true" mt="1515025055533" redirect="true"/>
-  <file name="product.html" crc="4076913419" seo="true" mt="1515088117203" redirect="true"/>
-  <file name="contact.html" crc="4152661441" seo="true" mt="1515097655425" redirect="true"/>
-  <file name="team.html" crc="336670377" seo="true" mt="1515095179809" redirect="true"/>
-  <file name="process.html" crc="4184901623" seo="true" mt="1515100993623" redirect="true"/>
+  <file name="index.html" crc="3859110361" seo="true" mt="1515025055533" redirect="true"/>
+  <file name="product.html" crc="128870271" seo="true" mt="1515088117203" redirect="true"/>
+  <file name="contact.html" crc="3805534447" seo="true" mt="1515097655425" redirect="true"/>
+  <file name="team.html" crc="161085072" seo="true" mt="1517438127251" redirect="true"/>
+  <file name="process.html" crc="121862402" seo="true" mt="1515100993623" redirect="true"/>
 </manifest>
