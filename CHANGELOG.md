@@ -3,7 +3,6 @@
 ## [Unreleased]
 
 - Redesign the logo and recenter in each breakpoint
-- Optimize Home page for mobile
 - Complexify Process page: Go into more depth, add process pics of CAD and process videos of laser cutting; Add video of presentation at the end of Process page; Add video of spiderwheel moving; Maybe add process of designing website
 - Consider making process page a slideshow of sorts instead
 - Add contact destination for contact form
@@ -16,7 +15,9 @@
 
 ## [Known Bugs]
 
+- Home page has white space on mobile
 - Accordion menu shifts to right on smaller mobile devices
+- Contact form has no real destination
 
 
 
