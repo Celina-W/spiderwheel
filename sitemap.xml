@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://celina-w.github.io/spiderwheel/index.html</loc>
-    <lastmod>2018-01-03</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/contact.html</loc>
-    <lastmod>2018-01-04</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/product.html</loc>
-    <lastmod>2018-01-04</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -173,10 +173,52 @@
     <image:image>
       <image:loc>http://celina-w.github.io/spiderwheel/images/celina%20pfp-crop-u21631_2x7.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u216252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u216253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u216254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u216255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u216256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u216257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://celina-w.github.io/spiderwheel/images/gabi%20pfp-crop-u21625_2x7.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://celina-w.github.io/spiderwheel/process.html</loc>
-    <lastmod>2018-01-04</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

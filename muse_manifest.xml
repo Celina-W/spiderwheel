@@ -1,21 +1,21 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="celina-w.github.io/spiderwheel" resolutions="1x,2x" timestamp="1517438202765">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="celina-w.github.io/spiderwheel" resolutions="1x,2x" timestamp="1517455395254">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="363202562" ref="process:product:team:index:contact"/>
+    <file name="master_a-master.css" crc="4243999802" ref="process:product:team:index:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="4170208157" ref="process:product:team:index:contact"/>
-    <file name="process.css" crc="3962415262" ref="process"/>
+    <file name="process.css" crc="76675671" ref="process"/>
     <file name="nomq_process.css" crc="4288983345" ref="process"/>
     <file name="iefonts_process.css" crc="3824530138" ref="process"/>
-    <file name="product.css" crc="4263914625" ref="product"/>
+    <file name="product.css" crc="225742128" ref="product"/>
     <file name="nomq_product.css" crc="4213987820" ref="product"/>
     <file name="iefonts_product.css" crc="3824530138" ref="product"/>
-    <file name="team.css" crc="283381605" ref="team"/>
-    <file name="nomq_team.css" crc="88041785" ref="team"/>
+    <file name="team.css" crc="4029593185" ref="team"/>
+    <file name="nomq_team.css" crc="4184858728" ref="team"/>
     <file name="iefonts_team.css" crc="3824530138" ref="team"/>
-    <file name="index.css" crc="3909211397" ref="index"/>
+    <file name="index.css" crc="115572112" ref="index"/>
     <file name="nomq_index.css" crc="4196861639" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="485824524" ref="contact"/>
+    <file name="contact.css" crc="52557920" ref="contact"/>
     <file name="nomq_contact.css" crc="3764516437" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
   </folder>
@@ -383,7 +383,7 @@
       <caption webpage="process" alt=""/>
       <caption webpage="process" alt=""/>
     </file>
-    <file name="img_1039-crop-u19443.jpg" crc="417052415" seo="true" ref="process">
+    <file name="img_1039-crop-u19443.jpg" crc="4222191799" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
     <file name="img_1039-crop-u19443_2x.jpg" crc="3811533499" seo="true" ref="process">
@@ -450,10 +450,10 @@
     <file name="sketches1-crop-u19284_2x3.jpg" crc="4193281433" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
-    <file name="sketches2-crop-u19328.jpg" crc="3929434753" seo="true" ref="process">
+    <file name="sketches2-crop-u19328.jpg" crc="3933782533" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
-    <file name="sketches2-crop-u19328_2x.jpg" crc="347093957" seo="true" ref="process">
+    <file name="sketches2-crop-u19328_2x.jpg" crc="153448122" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
     <file name="full cad321x189.jpg" crc="367784529" seo="true" ref="process">
@@ -702,10 +702,52 @@
     <file name="img_1039-crop-u19443_2x7.jpg" crc="3970357441" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
+    <file name="gabi pfp-crop-u21625.jpg" crc="156737249" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x.jpg" crc="220452241" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u216252.jpg" crc="48103562" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x2.jpg" crc="153706786" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u216253.jpg" crc="3959596525" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x3.jpg" crc="213322778" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u216254.jpg" crc="4091935296" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x4.jpg" crc="3937012391" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u216255.jpg" crc="237230383" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x5.jpg" crc="3868212919" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u216256.jpg" crc="276561046" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x6.jpg" crc="3898867455" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u216257.jpg" crc="3771631561" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gabi pfp-crop-u21625_2x7.jpg" crc="526640850" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3859110361" seo="true" mt="1515025055533" redirect="true"/>
-  <file name="product.html" crc="128870271" seo="true" mt="1515088117203" redirect="true"/>
-  <file name="contact.html" crc="3805534447" seo="true" mt="1515097655425" redirect="true"/>
-  <file name="team.html" crc="161085072" seo="true" mt="1517438127251" redirect="true"/>
-  <file name="process.html" crc="121862402" seo="true" mt="1515100993623" redirect="true"/>
+  <file name="index.html" crc="3951959553" seo="true" mt="1517455142809" redirect="true"/>
+  <file name="product.html" crc="181242449" seo="true" mt="1517455142809" redirect="true"/>
+  <file name="contact.html" crc="4181067847" seo="true" mt="1517455142809" redirect="true"/>
+  <file name="team.html" crc="3960185408" seo="true" mt="1517455276125" redirect="true"/>
+  <file name="process.html" crc="3992380809" seo="true" mt="1517455142809" redirect="true"/>
 </manifest>
